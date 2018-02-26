@@ -1,7 +1,8 @@
 # objToString-in-JavaScript
 simple convert JS object to string as simple tree
 
-
+example:
+```
   client :: 7
   price :: 42.32
   service
@@ -15,3 +16,4 @@ simple convert JS object to string as simple tree
   print
     id :: 27
     price :: 19.50
+```
